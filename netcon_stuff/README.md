@@ -15,7 +15,7 @@ More stuff will probably be added when I get the time.
 ### Steps
 1.Install [Node js](https://nodejs.org/).
 
-2.Download [bomb_timer](https://github.com/Billar42/csgo_bugs/tree/master/netcon_stuff/bomb_timer) script.
+2.Download [bomb_timer](https://github.com/Billar42/csgo_bugs/tree/master/netcon_stuff/bomb_timer).
 
 3.Run CSGO with `-netconport 2121`.
 
