@@ -10,7 +10,7 @@ Also check out [csctl](https://github.com/403-Fruit/csctl) by [403-Fruit](https:
 
 More stuff will probably be added when I get the time.
 
-## New: Bomb Timer
+## Not Patched: Bomb Timer
 
 ### Steps
 1.Install [Node js](https://nodejs.org/).
